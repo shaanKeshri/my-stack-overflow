@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-stack-overflow/static/css/main.d0b90f51.css",
-    "main.js": "/my-stack-overflow/static/js/main.f70a4b18.js",
+    "main.js": "/my-stack-overflow/static/js/main.fbd1e624.js",
     "service-worker.js": "/my-stack-overflow/service-worker.js",
     "static/media/Globe.svg": "/my-stack-overflow/static/media/Globe.b4c9a5d99220d0b4e3024a8106e27c49.svg",
     "index.html": "/my-stack-overflow/index.html",
@@ -12,10 +12,10 @@
     "static/media/sort-down.svg": "/my-stack-overflow/static/media/sort-down.903eaa19f8ed510bf2202ab80dbea7d5.svg",
     "static/media/sort-up.svg": "/my-stack-overflow/static/media/sort-up.00d081851dcbaaf15930853fbdb312b6.svg",
     "main.d0b90f51.css.map": "/my-stack-overflow/static/css/main.d0b90f51.css.map",
-    "main.f70a4b18.js.map": "/my-stack-overflow/static/js/main.f70a4b18.js.map"
+    "main.fbd1e624.js.map": "/my-stack-overflow/static/js/main.fbd1e624.js.map"
   },
   "entrypoints": [
     "static/css/main.d0b90f51.css",
-    "static/js/main.f70a4b18.js"
+    "static/js/main.fbd1e624.js"
   ]
 }
